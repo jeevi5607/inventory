@@ -1,3 +1,4 @@
+store manager Demo video https://drive.google.com/file/d/15zg50pcBekN2xAQ_OAgRYlCFK8FQHDMJ/view?usp=sharing
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
